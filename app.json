@@ -1,0 +1,14 @@
+{
+    "name": "DetlaHX",
+    "description": "DetlaHX",
+    "keywords": ["DetlaHX"],
+    "env": {
+        "UUID": {
+            "description": "DetlaHX V2Ray UUID",
+            "value": "<--Please Enter UUID!-->"
+        }
+    },
+    "website": "DetlaHX",
+    "repository": "DetlaHX",
+    "stack": "container"
+}
